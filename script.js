@@ -24,4 +24,4 @@ var marker5 = L.marker([-0.5388, 37.4596]).addTo(mymap);
 marker5.bindPopup("<b>Final Destination</b><br>Embu.").openPopup();
 
 var marker5 = L.marker([-0.5417274, 37.4561027]).addTo(mymap);
-marker5.bindPopup("<b>Accomodatio</b><br>Izaak Walton Inn Embu.").openPopup();
+marker5.bindPopup("<b>Accomodation</b><br>Izaak Walton Inn Embu.").openPopup();
